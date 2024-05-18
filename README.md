@@ -22,5 +22,6 @@ https://github.com/PyQt5/PyQt
 [PyQt5] https://github.com/PyQt5/PyQt
 ## End
 - 目前仅支持APP端运行, 如有其他端需求请自己修改, 有任何问题可以在issues和微信互相交流
+- 项目已经归档，不在维护
 - 欢迎Star 🌟🌟🌟, 如果遇到问题或建议请提Issue
 - 联系方式 vx:GK9454a
